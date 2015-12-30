@@ -1,0 +1,2 @@
+Debug/startup_stm32f407xx.o: \
+ ../../sharedGDB/STM32F4xxxx/StartupFiles/startup_stm32f407xx.c
